@@ -3,6 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+(AI + ML) * Finance rising junior student @Minerva University. 
+  
+ My ultimate goal is to use technology for evidence-based questioning to challenge assumptions that are taken for granted in society. For instance, as the wave of globalization surges, international companies are trying to standardize their products globally. Many international players are acting in conformity not having enough time and manpower to even critically think about whether it's a sustainable and profitable strategy for the long-term growth of the company. I want to become a data scientist who can contribute to such crucial decisions for business strategies.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
